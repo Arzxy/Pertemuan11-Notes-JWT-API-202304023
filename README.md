@@ -97,7 +97,7 @@ set-apikey: AKMAL-API-KEY
 ## Clone Repository
 
 ```bash
-git clone https://github.com/username/notes-jwt-app.git
+git clone (https://github.com/Arzxy/Pertemuan11-Notes-JWT-API-202304023.git)
 ```
 
 ---
@@ -214,9 +214,3 @@ flutter_secure_storage:
 ```bash
 tymon/jwt-auth
 ```
-
----
-
-# ⭐ License
-
-This project is open-source and available for educational purposes.
