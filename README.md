@@ -1,14 +1,3 @@
-Ini README.md yang cocok buat project kamu 🔥
-Udah dibuat ala GitHub modern:
-
-* ada fitur
-* stack
-* setup
-* API
-* screenshot placeholder
-* JWT explanation
-* keren buat dosen + portfolio 😭
-
 # 📝 Notes JWT App
 
 Aplikasi Notes Mobile berbasis Flutter dengan sistem autentikasi JWT menggunakan Laravel API Backend.
