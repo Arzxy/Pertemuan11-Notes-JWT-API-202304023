@@ -38,18 +38,6 @@ Aplikasi Notes Mobile berbasis Flutter dengan sistem autentikasi JWT menggunakan
 
 ---
 
-# 📱 Screenshot
-
-| Login               | Register            |
-| ------------------- | ------------------- |
-| Add your screenshot | Add your screenshot |
-
-| Home Notes          | Add Notes           |
-| ------------------- | ------------------- |
-| Add your screenshot | Add your screenshot |
-
----
-
 # 📂 Project Structure
 
 ## Flutter
@@ -99,7 +87,7 @@ This project also implements custom API Key Middleware.
 Example header:
 
 ```http
-my-api-key: ZALFA_API_MANTAP01
+set-apikey: AKMAL-API-KEY
 ```
 
 ---
@@ -181,19 +169,7 @@ Email:
 akmal@gmail.com
 
 Password:
-123456
-```
-
----
-
-## User 2
-
-```txt
-Email:
-zalfa@gmail.com
-
-Password:
-123456
+akmal
 ```
 
 ---
@@ -216,7 +192,7 @@ Password:
 ```http
 Content-Type: application/json
 Authorization: Bearer TOKEN
-my-api-key: ZALFA_API_MANTAP01
+set-apikey: AKMAL-API-KEY
 ```
 
 ---
